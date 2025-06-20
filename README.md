@@ -22,3 +22,14 @@ cd js-calculator
 3. Open index.html in any browser.
 
 Or simply drag index.html into Chrome/Edge/Firefox!
+
+✨ Optional Improvements
+Given more time, I'd consider:
+
+Adding keyboard input support
+
+Including theme toggle (dark/light)
+
+Adding history of calculations
+
+Making it a progressive web app (PWA)
